@@ -1,0 +1,6 @@
+{
+  "name": "NetSage AI",
+  "description": "AI-assisted network troubleshooting helper for Cisco Packet Tracer and lab problems with deterministic rule checking, human-in-the-loop review, and responsible AI audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
